@@ -1,0 +1,15 @@
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\bin\Debug\net8.0\UrlShortenerService.Application.deps.json
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\bin\Debug\net8.0\UrlShortenerService.Application.dll
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\bin\Debug\net8.0\UrlShortenerService.Application.pdb
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\bin\Debug\net8.0\UrlShortenerService.Core.dll
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\bin\Debug\net8.0\UrlShortenerService.Core.pdb
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\UrlShortenerService.Application.csproj.AssemblyReference.cache
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\UrlShortenerService.Application.GeneratedMSBuildEditorConfig.editorconfig
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\UrlShortenerService.Application.AssemblyInfoInputs.cache
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\UrlShortenerService.Application.AssemblyInfo.cs
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\UrlShortenerService.Application.csproj.CoreCompileInputs.cache
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\UrlShort.7384C51C.Up2Date
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\UrlShortenerService.Application.dll
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\refint\UrlShortenerService.Application.dll
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\UrlShortenerService.Application.pdb
+X:\Apps\UrlShortenerService\UrlShortenerService.Application\obj\Debug\net8.0\ref\UrlShortenerService.Application.dll
